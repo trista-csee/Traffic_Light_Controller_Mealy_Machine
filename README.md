@@ -17,6 +17,11 @@
 * The two blocks Mealy machine
 ![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/two%20blocks%20Mealy%20machine.png)
 
+* Traffic Light Controller - 
+A sensor on the farmway is to detect if there are any vehicles 
+and change the traffic light to allow the vehicles to cross the highway. 
+Otherwise, highway light is always green since it has higher priority than the farmway. 
+
 <!-- Schmatic -->
 ## Schmatic
 ![image](https://github.com/trista-csee/Traffic_Light_Controller_Mealy_Machine/blob/main/Schmatic_all.png)
