@@ -26,7 +26,7 @@ Otherwise, highway light is always green since it has higher priority than the f
 ## Schmatic
 ![image](https://github.com/trista-csee/Traffic_Light_Controller_Mealy_Machine/blob/main/Schmatic_all.png)
 
-* Enlarge left half
+* Enlarge the left half
 ![image](https://github.com/trista-csee/Traffic_Light_Controller_Mealy_Machine/blob/main/Schmatic_left.png)
 
 * Enlarge the right half
