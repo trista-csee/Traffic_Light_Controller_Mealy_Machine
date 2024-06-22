@@ -15,7 +15,7 @@
 * The other block(s) can be modeled either using the always procedural block or a mixture of the always procedural block and dataflow modeling statements.
 
 * The two blocks Mealy machine
-![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/two%20blocks%20Mealy%20machine.png)
+![image](https://github.com/trista-csee/Traffic_Light_Controller_Mealy_Machine/blob/main/two%20blocks%20Mealy%20machine.png)
 
 * Traffic Light Controller - 
 A sensor on the farmway is to detect if there are any vehicles 
