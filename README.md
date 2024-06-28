@@ -22,8 +22,8 @@ A sensor on the farmway is to detect if there are any vehicles
 and change the traffic light to allow the vehicles to cross the highway. 
 Otherwise, highway light is always green since it has higher priority than the farmway. 
 
-<!-- Schmatic -->
-## Schmatic
+<!-- Schematic -->
+## Schematic
 ![image](https://github.com/trista-csee/Traffic_Light_Controller_Mealy_Machine/blob/main/Schmatic_all.png)
 
 * Enlarge the left half
